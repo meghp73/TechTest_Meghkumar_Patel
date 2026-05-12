@@ -21,7 +21,6 @@ A professional C implementation of a terminal-based pattern-drawing system with 
 
 ```
 TechTest/
-├── README.md
 ├── common/
 │   └── my_putchar.c              ← Shared utility (single source of truth)
 ├── rush-1-1/
